@@ -1,9 +1,5 @@
 # Shrouk Hesham - Full Stack Developer & Biomedical Informatics Engineer
 
-<div align="center">
-  <img src="your-profile-picture-url.jpg" alt="Shrouk's Profile Picture" width="200" height="200">
-</div>
-
 ## 🌸 About Me
 
 Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Informatics Engineer. My passion lies in blending technology with healthcare to create innovative solutions.
@@ -15,13 +11,13 @@ Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Info
 - Data-driven Approaches
 - Healthcare Systems
 
-## 🌈 GitHub Repositories
+## GitHub Repositories
 
-Check out my latest projects on [GitHub](https://github.com/your-github-username).
+Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
 
 ## 💌 Contact
 
-Let's connect! Feel free to reach out to me via [email](mailto:your-email@example.com).
+Let's connect! Feel free to reach out to me via [email](Shr.Hesham@nu.edu.eg).
 
 ---
 
@@ -29,34 +25,8 @@ Let's connect! Feel free to reach out to me via [email](mailto:your-email@exampl
   <img src="your-gif-url.gif" alt="Coding GIF" width="400" height="200">
 </div>
 
-## 🌟 Fun Fact
+![image](https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/fed2c518-e69c-49a9-a063-d49dabc546c7)
 
-I believe in the magic that happens when creativity meets coding! ✨
-
-<div align="center">
-  <img src="another-picture-url.jpg" alt="Another Picture" width="400" height="200">
-</div>
-
-## 🌐 More About Me
-
-- [Computer Science Program at NYU](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/degrees-and-programs)
-
----
-
-## 🎥 Additional Visuals
-
-### [Computer Science Program at NYU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.nyu.edu%2Facademics%2Fdepartments%2Fcomputer-science-and-engineering%2Fdegrees-and-programs&psig=AOvVaw2xroSzvCBeBJLhHguaWABa&ust=1706365515617000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwix48uEofuDAxUi5wIHHbJxDuMQjRx6BAgAEBY)
-![Computer Science Program at NYU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.nyu.edu%2Facademics%2Fdepartments%2Fcomputer-science-and-engineering%2Fdegrees-and-programs&psig=AOvVaw2xroSzvCBeBJLhHguaWABa&ust=1706365515617000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwix48uEofuDAxUi5wIHHbJxDuMQjRx6BAgAEBY)
-
-### [Female Web Developer Illustration](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4)
-![Female Web Developer Illustration](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4)
-
-### [Female Developer Working on Web Development](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4)
-![Female Developer Working on Web Development](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4)
-
-### [Geneticist Animation](https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4)
-![Geneticist Animation](https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4)
-
----
+https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif
 
 © 2024 Shrouk Hesham. All rights reserved.
