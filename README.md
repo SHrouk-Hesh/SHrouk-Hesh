@@ -45,9 +45,13 @@ I believe in the magic that happens when creativity meets coding! ✨
 
 ## 🎥 Additional Visuals
 
-- [Female Web Developer Illustration](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4)
-- [Female Developer Working on Web Development](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4)
-- [Geneticist Animation](https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.nyu.edu%2Facademics%2Fdepartments%2Fcomputer-science-and-engineering%2Fdegrees-and-programs&psig=AOvVaw2xroSzvCBeBJLhHguaWABa&ust=1706365515617000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwix48uEofuDAxUi5wIHHbJxDuMQjRx6BAgAEBY 
+
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4
+
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4
+
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4
 
 ---
 
