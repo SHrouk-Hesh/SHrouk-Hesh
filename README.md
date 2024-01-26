@@ -15,13 +15,13 @@ Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Info
 - Data-driven Approaches
 - Healthcare Systems
 
-## GitHub Repositories
+## 🌈 GitHub Repositories
 
-Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
+Check out my latest projects on [GitHub](https://github.com/your-github-username).
 
 ## 💌 Contact
 
-Let's connect! Feel free to reach out to me via [email](mailto:Shr.Hesham@nu.edu.eg).
+Let's connect! Feel free to reach out to me via [email](mailto:your-email@example.com).
 
 ---
 
@@ -36,6 +36,18 @@ I believe in the magic that happens when creativity meets coding! ✨
 <div align="center">
   <img src="another-picture-url.jpg" alt="Another Picture" width="400" height="200">
 </div>
+
+## 🌐 More About Me
+
+- [Computer Science Program at NYU](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/degrees-and-programs)
+
+---
+
+## 🎥 Additional Visuals
+
+- [Female Web Developer Illustration](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4)
+- [Female Developer Working on Web Development](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4)
+- [Geneticist Animation](https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4)
 
 ---
 
