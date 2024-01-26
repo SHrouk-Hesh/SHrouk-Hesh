@@ -1,12 +1,14 @@
 # Shrouk Hesham - Full Stack Developer & Biomedical Informatics Engineer
 
-![Shrouk's Profile Picture](your-profile-picture-url.jpg)
+<div align="center">
+  <img src="your-profile-picture-url.jpg" alt="Shrouk's Profile Picture" width="200" height="200">
+</div>
 
-## About Me
+## 🌸 About Me
 
-Hi there! I'm Shrouk Hesham, a passionate Full Stack Developer and Biomedical Informatics Engineer. My background in Bioinformatics fuels my enthusiasm for developing innovative biomedical systems and tools.
+Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Informatics Engineer. My passion lies in blending technology with healthcare to create innovative solutions.
 
-## Skills
+## 🚀 Skills
 
 - Full Stack Development
 - Bioinformatics
@@ -15,11 +17,25 @@ Hi there! I'm Shrouk Hesham, a passionate Full Stack Developer and Biomedical In
 
 ## GitHub Repositories
 
-Check out my latest projects on [GitHub](https://github.com/your-github-username).
+Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
 
-## Contact
+## 💌 Contact
 
-Let's connect! Reach out to me via [email](mailto:your-email@example.com).
+Let's connect! Feel free to reach out to me via [email](mailto:Shr.Hesham@nu.edu.eg).
+
+---
+
+<div align="center">
+  <img src="your-gif-url.gif" alt="Coding GIF" width="400" height="200">
+</div>
+
+## 🌟 Fun Fact
+
+I believe in the magic that happens when creativity meets coding! ✨
+
+<div align="center">
+  <img src="another-picture-url.jpg" alt="Another Picture" width="400" height="200">
+</div>
 
 ---
 
