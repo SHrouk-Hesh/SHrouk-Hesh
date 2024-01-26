@@ -1,4 +1,4 @@
-# Shrouk Hesham - Full Stack Developer & Biomedical Informatics Engineer
+# Shrouk Hesham - Biomedical Engineer & Full Stack Developer
 
 ## 🌸 About Me
 
@@ -7,9 +7,10 @@ Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Info
 ## 🚀 Skills
 
 - Full Stack Development
-- Bioinformatics
+- Biomedical Informatics | Bioinformatics
 - Data-driven Approaches
 - Healthcare Systems
+- Biomedical Research
 
 ## GitHub Repositories
 
@@ -25,7 +26,10 @@ Let's connect! Feel free to reach out to me via [email](Shr.Hesham@nu.edu.eg).
   <img src="your-gif-url.gif" alt="Coding GIF" width="400" height="200">
 </div>
 
-![image](https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/fed2c518-e69c-49a9-a063-d49dabc546c7)
+https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4
+
+![image](https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/56187c7f-640d-489f-a154-1a9da1d2a2cd)
+
 
 https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif
 
