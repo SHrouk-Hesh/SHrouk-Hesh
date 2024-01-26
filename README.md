@@ -20,8 +20,17 @@ Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
 
 Let's connect! Feel free to reach out to me via [email](Shr.Hesham@nu.edu.eg).
 
-![Video 1](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4)
+<video width="320" height="240" controls>
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Video 2](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4)
+<video width="320" height="240" controls>
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Video 3](https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4)
+<video width="320" height="240" controls>
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/geneticist-5403607-4510604.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
