@@ -20,6 +20,4 @@ Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
 
 Let's connect! Feel free to reach out to me via [email](Shr.Hesham@nu.edu.eg).
 
-
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4" type="video/mp4">
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4" type="video/mp4">
+https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/fb5dfc6e-35ed-4976-a053-fc4730a504a4
