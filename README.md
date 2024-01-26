@@ -14,6 +14,9 @@ Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Info
 
 ![image](https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/7b094497-a146-4ec8-9d6e-d848051eeaf5)
 
+![image](https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/57b735e1-421b-4550-8dce-88640c6d5163)
+
+
 ## GitHub Repositories
 
 Check out my latest projects on [GitHub](https://github.com/SHrouk-Hesh).
