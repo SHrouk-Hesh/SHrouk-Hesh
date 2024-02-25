@@ -46,14 +46,7 @@ Let's connect! Feel free to reach out to me via [email](Shr.Hesham@nu.edu.eg).
 
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
-<h1 align= "center"><b>Hey there🙋‍♂️, I am Shrouk</b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 <h2 align= "center"><b>I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</b></h2>
 
 
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Shrouk
-<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
-<p align ="left">
-</p>
-
-<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
