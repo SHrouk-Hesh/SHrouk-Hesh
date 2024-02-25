@@ -3,7 +3,7 @@
 <p align ="left">
 
 
-# <h1 align="center"> Biomedical Engineer & Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# <h2 align="center"> A passionate Biomedical Engineer & Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center">
     <a href="https://www.linkedin.com/in/shrouk-hesham-475644219"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
@@ -11,30 +11,15 @@
 
 <img src="https://github.com/SHrouk-Hesh/SHrouk-Hesh/assets/121517766/7b094497-a146-4ec8-9d6e-d848051eeaf5" align="right" width="25%"/>
 
-## 🌸 About Me 
 
-Hi there! I'm Shrouk Hesham, a creative Full Stack Developer and Biomedical Informatics Engineer. My passion lies in blending technology with healthcare to create innovative solutions!
-
-## 🚀 Skills
-
-- Full Stack Development
-- Biomedical Informatics | Bioinformatics
-- Data-driven Approaches
-- Healthcare Systems
-- Biomedical Research
-
-
-
-<h3 align="center">A passionate Biomedical Engineer & Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrouk-hesh&label=Profile%20views&color=0e75b6&style=flat" alt="shrouk-hesh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ShroukHesham.net/](https://ShroukHesham.net/)
+- 👨‍💻 All of my projects are available at my website [https://ShroukHesham.net/](https://ShroukHesham.net/)
 
 ## 💌 Contact
 
-- Let's connect! Feel free to reach out to me via [Appointment]().
-- How to reach me **Shr.Hesham@nu.edu.eg**
+- Let's connect! Feel free to reach out to me via **Shr.Hesham@nu.edu.eg**.
 
 
 <h3 align="left">Connect with me:</h3>
