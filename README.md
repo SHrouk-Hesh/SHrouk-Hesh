@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrouk-hesh&label=Profile%20views&color=0e75b6&style=flat" alt="shrouk-hesh" /> </p>
 
-### - 👨‍💻 All of my projects are available at my website [SHROUK HESHAM](https://shrouk-hesham.netlify.app)
+### - 👨‍💻 All of my information is available on my website [SHROUK HESHAM](https://shrouk-hesham.netlify.app)
 
 ## 💌 Contact
 
